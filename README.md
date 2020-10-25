@@ -33,8 +33,8 @@ Java课程作业项目仓库
    然后分别调用S1与T1下的Setcourse(Course ce)方法，将参数ce改为C1，实现学生选课，老师授课；
    接着调用相关类下重写的toString()方法,输出各类属性赋值信息；
 ## 四.核心代码
-![](https://github.com/001221lry/Java-2/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_2.png)
+![](https://github.com/zzfer8/Java---/blob/main/2.png)
 ## 五.实验结果
-![](https://github.com/001221lry/Java-2/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1.png)
+![](https://github.com/zzfer8/Java---/blob/main/1.png)
 ## 六.实验感想
 对super访问父类属性和extends继承父类构造方法有一些了解；掌握面向对象的类设计方法（属性、方法）掌握类的继承用法，通过构造方法实例化对象；对于extends继承函数也有了初步的了解，还有super关键字直接访问父类的属性，用toString更容易直观看出内容。这次的实验需要先确定类和对象，找好继承关系，接下来就相对容易一些，通过这次实验我收获很大。
